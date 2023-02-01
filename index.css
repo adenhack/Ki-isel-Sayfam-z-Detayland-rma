@@ -1,0 +1,39 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.banner {
+    width: 100%;
+    height: 100px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hakkimda{
+    text-align: center;
+}
+
+.hobilerim{
+    margin: 50px;
+    
+text-align:center ;
+}
+
+.orta {
+    display: flex; /*inline block yerine flex özelliğini kullandım*/
+    margin: 25px;
+    padding: 25px;
+}
+
+.resim{
+    display: flex;
+    justify-content: center;
+}
